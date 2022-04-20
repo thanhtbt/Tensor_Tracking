@@ -11,7 +11,7 @@ Both algorithms are fast, and require a low computational complexity and memory 
 ## DEMO
 
 + Run files "demo_ACP_xyz.m" and "demo_ATD_xyz" for synthetic data.
-+ Run "demo_real_video_tracking_completion.m" for a practical applications of online tensor completion. Video datasets can be downloaded from Releases 
++ Run "demo_real_video_tracking_completion.m" for a practical application of online tensor completion. Video datasets can be downloaded from Releases 
 
 
 ## State-of-the-art algorithms for comparison
