@@ -5,7 +5,7 @@ cd Algorithms/;
 addpath(genpath(pwd));
 cd ..;
 
-cd VideoTracking/;
+cd Video_Tracking/;
 addpath(genpath(pwd));
 cd ..; 
 
