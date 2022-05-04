@@ -14,8 +14,8 @@ N           = length(tensor_dim);
 T           = tensor_dim(end);
 
 %% Main Program
-PER_U = cell(length(Lambda),length(MAG));
-PER_X = cell(length(Lambda),length(MAG));
+PER_U = cell(1,length(MAG));
+PER_X = cell(1,length(MAG));
 
 for jj = 1 : length(MAG)
     PER_U{1,jj} = zeros(N-1,T);
