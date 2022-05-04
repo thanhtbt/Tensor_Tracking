@@ -27,6 +27,6 @@ Both algorithms are fast, and require a low computational complexity and memory 
 
 This code is free and open source for research purposes. If you use this code, please acknowledge the following papers.
 
-[1] L.T. Thanh, K. Abed-Meraim, N. L. Trung and A. Hafiane. “[*A Fast Randomized Adaptive CP Decomposition For Streaming Tensors*](https://drive.google.comg)”. **Proceedings of the 46th IEEE ICASSP**, 2021. [[DOI](https://ieeexplore.ieee.org/document/9413554)].
+[1] L.T. Thanh, K. Abed-Meraim, N. L. Trung and A. Hafiane. “[*A Fast Randomized Adaptive CP Decomposition For Streaming Tensors*](https://drive.google.com/file/d/1DAUTPryASpIoDxUZlRW_jzMSFeOS5EPm/view?usp=sharing)”. **Proceedings of the 46th IEEE ICASSP**, 2021. [[DOI](https://ieeexplore.ieee.org/document/9413554)].
 
-[2] L.T. Thanh, K. Abed-Meraim, N. L. Trung and A. Hafiane. “[*Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors*](https://drive.google.com/fi)”. Preprint, 2022. 
+[2] L.T. Thanh, K. Abed-Meraim, N. L. Trung and A. Hafiane. “[*Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors*](https://drive.google.com/fi)”. Preprint (be available at https://www.techrxiv.org/), 2022, [[PDF](https://drive.google.com/file/d/1BHT80liD97fwKdaugxh5eSs3uEKBRLye/view?usp=sharing)]. 
