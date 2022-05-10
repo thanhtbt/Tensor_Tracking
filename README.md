@@ -22,8 +22,6 @@ Both algorithms are fast, and require a low computational complexity and memory 
 
 ## Some Results
 
-Similated data:
-
 + Streaming CP Decomposition
 
 <img src="https://user-images.githubusercontent.com/26319211/167562867-207d050a-7819-462a-8837-73e417ce0bad.png" width="700" height='500'>
@@ -38,7 +36,6 @@ Similated data:
 <img src="https://user-images.githubusercontent.com/26319211/167564258-80b54ed2-23ac-43c0-8b9b-a62db1cc7369.png" width="700" height='500'>
 
 + EEG Analysis
-+ 
 <img src="https://user-images.githubusercontent.com/26319211/167564389-dcd25c01-1210-44f7-8684-48931144589d.JPG" width="700" height='500'>
 
 
