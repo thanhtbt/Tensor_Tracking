@@ -14,11 +14,11 @@ Both algorithms are fast, and require a low computational complexity and memory 
 
 
 ## State-of-the-art algorithms for comparison
-+ TeCPSGD: Mardani Mortezaet et al. "Subspace learning and imputation for streaming big data matrices and tensors." IEEE Trans. Signal Process. 63.10 (2015): 2663-2677.
-+ OLSTEC: Kasai Hiroyuki. "Fast online low-rank tensor subspace tracking by CP decomposition using recursive least squares from incomplete observations." Neurocomputing 347 (2019): 177-190.
-+ CP-PETRELS:  Minh-Chinh Truong, et al. "Adaptive PARAFAC decomposition for third-order tensor completion." IEEE Int. Conf. Commun. Electr.(IEEE ICCE), 2016.
-+ WTucker: Filipović, M., and Jukić, A. "Tucker factorization with missing data with application to low-𝑛-rank tensor completion". Multidim. Syst. Signal Process. 26, 3 (2015), 677–692.
-+ iHOOI and ALSaS: Xu, Y. Fast algorithms for higher-order singular value decomposition from incomplete data. J. Comput. Math. 35, 4 (2017), 395–420
++ TeCPSGD: Mardani Mortezaet et al. “[*Subspace learning and imputation for streaming big data matrices and tensors*](https://ieeexplore.ieee.org/document/7072498)”. **IEEE Trans. Signal Process.** 63, 10 (2015): 2663-2677.
++ OLSTEC: Kasai Hiroyuki. “[*Fast online low-rank tensor subspace tracking by CP decomposition using recursive least squares from incomplete observations*](https://www.sciencedirect.com/science/article/abs/pii/S0925231218313584?via%3Dihub)”. **Neurocomput.** 347 (2019): 177-190.
++ CP-PETRELS:  Minh-Chinh Truong, et al. “[*Adaptive PARAFAC decomposition for third-order tensor completion*](https://ieeexplore.ieee.org/abstract/document/7562652)”. **IEEE Int. Conf. Commun. Electr. (IEEE ICCE),** 2016.
++ WTucker: Filipović, M., and Jukić, A. “[*Tucker factorization with missing data with application to low-𝑛-rank tensor completion*](https://link.springer.com/article/10.1007/s11045-013-0269-9)”. **Multidim. Syst. Signal Process.** 26, 3 (2015), 677–692.
++ iHOOI and ALSaS: Xu, Y. “[*Fast algorithms for higher-order singular value decomposition from incomplete data*](https://global-sci.org/intro/article_detail/jcm/10023.html)”. **J. Comput. Math.** 35, 4 (2017), 395–420.
 
 ## Some Results
 
