@@ -35,15 +35,12 @@ Both algorithms are fast, and require a low computational complexity and memory 
 
 <img src="https://user-images.githubusercontent.com/26319211/167564258-80b54ed2-23ac-43c0-8b9b-a62db1cc7369.png" width="700" height='500'>
 
-+ EEG Analysis
-<img src="https://user-images.githubusercontent.com/26319211/167564389-dcd25c01-1210-44f7-8684-48931144589d.JPG" width="700" height='500'>
-
-
+ 
 ## References
 
 This code is free and open source for research purposes. If you use this code, please acknowledge the following paper.
 
-[1] **L.T. Thanh**, K. Abed-Meraim, N. L. Trung and A. Hafiane. “[*Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors*](https://drive.google.com/fi)”. **Techrxiv**, 2022, [[Link](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034)], [[PDF](https://drive.google.com/file/d/12OQrkKvKZVU3-4-3fjtLKLQuplNcOhmZ/view?usp=sharing)]. 
+[1] **L.T. Thanh**, K. Abed-Meraim, N. L. Trung and A. Hafiane. “[*Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors*](https://drive.google.com/fi)”. **Elsevier Patterns**, 2023, [[Link](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034)], [[PDF](https://drive.google.com/file/d/12OQrkKvKZVU3-4-3fjtLKLQuplNcOhmZ/view?usp=sharing)]. 
 
 
 
