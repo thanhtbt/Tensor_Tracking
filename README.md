@@ -20,7 +20,7 @@ Both algorithms are fast, and require a low computational complexity and memory 
 + WTucker: Filipović, M., and Jukić, A. “[*Tucker factorization with missing data with application to low-𝑛-rank tensor completion*](https://link.springer.com/article/10.1007/s11045-013-0269-9)”. **Multidim. Syst. Signal Process.** 26, 3 (2015), 677–692.
 + iHOOI and ALSaS: Xu, Y. “[*Fast algorithms for higher-order singular value decomposition from incomplete data*](https://global-sci.org/intro/article_detail/jcm/10023.html)”. **J. Comput. Math.** 35, 4 (2017), 395–420.
 
-## Some Results
+## Some Experimental Results
 
 + Streaming CP Decomposition
 
