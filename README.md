@@ -40,7 +40,7 @@ Both algorithms are fast, and require a low computational complexity and memory 
 
 This code is free and open source for research purposes. If you use this code, please acknowledge the following paper.
 
-[1] **L.T. Thanh**, K. Abed-Meraim, N. L. Trung and A. Hafiane. “[*Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors*](https://drive.google.com/fi)”. **Elsevier Patterns**, 2023, [CellPress](https://www.cell.com/patterns/fulltext/S2666-3899(23)00104-6), [Techrxiv](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034)], [[PDF](https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf)]. 
+[1] **L.T. Thanh**, K. Abed-Meraim, N. L. Trung and A. Hafiane. “[*Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors*](https://drive.google.com/fi)”. **Elsevier Patterns**, 2023, [[CellPress](https://www.cell.com/patterns/fulltext/S2666-3899(23)00104-6)], [[Techrxiv](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034)], [[PDF](https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf)]. 
 
 
 
