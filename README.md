@@ -35,11 +35,11 @@ Both algorithms are fast and require low computational complexity and memory sto
 <img src="https://user-images.githubusercontent.com/26319211/167564258-80b54ed2-23ac-43c0-8b9b-a62db1cc7369.png" width="700" height='500'>
 
  
-## References
+## Reference
 
 If you use this code, please cite the following paper.
 
-[1] **L.T. Thanh**, K. Abed-Meraim, N. L. Trung and A. Hafiane. “[*Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors*](https://www.cell.com/patterns/fulltext/S2666-3899(23)00104-6)”. **CellPress Patterns**, 2023, [[CellPress](https://www.cell.com/patterns/fulltext/S2666-3899(23)00104-6)], [[Techrxiv](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034)], [[PDF](https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf)]. 
+[1] **L.T. Thanh**, K. Abed-Meraim, N. L. Trung and A. Hafiane. “[*A Novel Recursive Least-Squares Adaptive Method For Streaming Tensor-Train Decomposition With Incomplete Observations*](https://www.sciencedirect.com/journal/signal-processing/articles-in-press)”. **Signal Process.**, 2023. (Accepted)
 
 
 
